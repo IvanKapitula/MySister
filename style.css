@@ -1,0 +1,5 @@
+div {
+  font-size: 100px;
+  color: yellow;
+  transition: all 0.6s;
+}
